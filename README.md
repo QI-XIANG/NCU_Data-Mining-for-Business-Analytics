@@ -1,4 +1,4 @@
-# NCU_Data-Mining-for-Business-Analytics
+# NCU Data Mining for Business Analytics
 
 ![](https://badgen.net/github/watchers/QI-XIANG/NCU_Data-Mining-for-Business-Analytics) ![](https://badgen.net/github/commits/QI-XIANG/NCU_Data-Mining-for-Business-Analytics) ![](https://badgen.net/github/last-commit/QI-XIANG/NCU_Data-Mining-for-Business-Analytics) ![](https://badgen.net/github/license/QI-XIANG/NCU_Data-Mining-for-Business-Analytics)
 
